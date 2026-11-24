@@ -67,7 +67,7 @@ Re-position the camera towards the crusher inlet · object detection + tracking 
 
 ---
 
-**Teddy Thamrong**, Élève-ingénieur Arts et Métiers (expertise robotique & IA) · recherche un stage de fin d'études en IA à partir de septembre 2027.
+**Teddy Thamrong**, élève-ingénieur à l'École nationale supérieure d'Arts et Métiers (ENSAM), expertise IRIS (machine learning et robotique) · recherche un stage de fin d'études en IA à partir de février ou de septembre 2027.
 *Code available for discussion during an interview, subject to the client's agreement.*
 
 © 2026 Teddy Thamrong: all rights reserved. No license is granted.
